@@ -1,5 +1,4 @@
 """
-Alisher Zharbossynov
 
 Permutation function
 """
