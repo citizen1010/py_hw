@@ -1,5 +1,4 @@
 """
-Alisher Zharbossynov
 
 BST: insert, delete, search, number of elements less than a given number
 """
